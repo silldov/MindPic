@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lf9AJDhGIZ7Or-vwtCEW-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="系统主体" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="30" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Lf9AJDhGIZ7Or-vwtCEW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="系统内部的元素" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="450" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Lf9AJDhGIZ7Or-vwtCEW-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="外部玩法" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="170" as="geometry" />
+          <mxGeometry height="60" width="120" x="630" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pCloEy-h9VYb1APaJ3nt-5" edge="1" parent="1" source="Lf9AJDhGIZ7Or-vwtCEW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Lf9AJDhGIZ7Or-vwtCEW-24">
           <mxGeometry relative="1" as="geometry" />
