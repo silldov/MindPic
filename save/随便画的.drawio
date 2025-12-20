@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
+  <diagram name="第 1 页" id="EsSFdYdE_Ythr_zW1wSh">
+    <mxGraphModel dx="927" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3IlklcVL-wixCPjSyvlz-7" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="进入新地图" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-8" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="与NPC对话寻找线索" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-9" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="对线索进行推理并寻找目标点" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-10" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="简单解密" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-12" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="收集地图上的物品" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-13" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-14" connectable="0" parent="3IlklcVL-wixCPjSyvlz-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="进入回合制部分" vertex="1">
+          <mxGeometry relative="1" x="0.1048" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="跟随主线流程挑战BOSS" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-17" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="战前收集物资和挑战对手的机制信息" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-19" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="战前规划所用的角色和打法" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-24" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="战斗期间验证搭配的思路" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-25" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-26" connectable="0" parent="3IlklcVL-wixCPjSyvlz-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="回到探索部分" vertex="1">
+          <mxGeometry relative="1" x="-0.0213" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="战斗胜利后解锁新的角色" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="回合制系统" vertex="1">
+          <mxGeometry height="30" width="70" x="50" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-32" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-46" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="前排角色&lt;div&gt;(在场上，可以被攻击）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="70" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-34" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="后排角色&lt;div&gt;(在场下，不可被攻击）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="70" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-38" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-51" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="拥有三个主动技能和一个被动技能" vertex="1">
+          <mxGeometry height="60" width="120" x="285" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-41" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-49" edge="1" parent="1" source="3IlklcVL-wixCPjSyvlz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3IlklcVL-wixCPjSyvlz-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="拥有两个后台一次性技能" vertex="1">
+          <mxGeometry height="60" width="120" x="285" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="每回合释放一个技能" vertex="1">
+          <mxGeometry height="30" width="120" x="285" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="战前指定回合数或极端条件下触发" vertex="1">
+          <mxGeometry height="30" width="120" x="285" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-42" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="所有前排角色被击败后则战斗失败" vertex="1">
+          <mxGeometry height="35" width="120" x="75" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="回合数：角色行动一次视为经过一回合，角色在所有角色行动一轮后才能再次行动" vertex="1">
+          <mxGeometry height="60" width="120" x="740" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-48" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="一次性技能包含：整局持续的buff，一定回合数的高数值加伤buff，特殊机制buff" vertex="1">
+          <mxGeometry height="60" width="120" x="485" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="3IlklcVL-wixCPjSyvlz-50" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="主动技：攻击性技能，防御型技能，回复型技能，辅助型技能" vertex="1">
+          <mxGeometry height="60" width="125" x="485" y="765" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
