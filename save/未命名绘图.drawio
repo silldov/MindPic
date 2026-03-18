@@ -1,9 +1,210 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.3.6">
-  <diagram name="第 1 页" id="DnHtphyT-Ya0HPXrNDty">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
+  <diagram name="第 1 页" id="TXrOEpJV5av8I4OZ2RDC">
     <mxGraphModel dx="1205" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KdLFObflEAZjy2fIuZEV-3" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="初始关卡" vertex="1">
+          <mxGeometry height="40" width="90" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-5" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="奖励选择" vertex="1">
+          <mxGeometry height="40" width="95" x="170" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-10" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-11" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-12" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="关卡分支选择" vertex="1">
+          <mxGeometry height="40" width="87.5" x="300" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-16" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="普通关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="451.25" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-22" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="奖励关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="451.25" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-23" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="挑战关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="451.25" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-25" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励二选一" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-26" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励二选一" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-27" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励三选二" vertex="1">
+          <mxGeometry height="40" width="80" x="585" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-29" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="随机重复2轮" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-43" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="商店房&lt;div&gt;素材交换和天赋售卖&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-30" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="流派" vertex="1">
+          <mxGeometry height="40" width="88.75" x="200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-32" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="挑战" vertex="1">
+          <mxGeometry height="40" width="88.75" x="200" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-34" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Dps检测" vertex="1">
+          <mxGeometry height="40" width="88.75" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-47" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励二选一" vertex="1">
+          <mxGeometry height="40" width="80" x="333.75" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-50" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="可以指定选取&lt;div&gt;一个道具/天赋&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="106.25" x="333.75" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-49" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励三选二" vertex="1">
+          <mxGeometry height="40" width="80" x="333.75" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-40" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-41" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="KdLFObflEAZjy2fIuZEV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-42" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-39" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="关卡分支选择" vertex="1">
+          <mxGeometry height="40" width="87.5" x="60" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-52" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-45" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="休息房" vertex="1">
+          <mxGeometry height="40" width="87.5" x="520" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-71" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="道中Boss" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-53" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-54" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-55" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-56" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="关卡分支选择" vertex="1">
+          <mxGeometry height="40" width="87.5" x="60" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-57" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="普通关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="236.88" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-59" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-60" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="奖励关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="236.88" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-61" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="挑战关" vertex="1">
+          <mxGeometry height="40" width="88.75" x="236.88" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-63" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励二选一" vertex="1">
+          <mxGeometry height="40" width="80" x="370.63" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-65" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励二选一" vertex="1">
+          <mxGeometry height="40" width="80" x="370.63" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-67" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="奖励三选二" vertex="1">
+          <mxGeometry height="40" width="80" x="370.63" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-76" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="KdLFObflEAZjy2fIuZEV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="随机重复2轮" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-72" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KdLFObflEAZjy2fIuZEV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-70" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="天赋强化" vertex="1">
+          <mxGeometry height="40" width="90" x="850" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-78" edge="1" parent="1" source="KdLFObflEAZjy2fIuZEV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KdLFObflEAZjy2fIuZEV-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-75" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="休息房" vertex="1">
+          <mxGeometry height="40" width="87.5" x="720" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KdLFObflEAZjy2fIuZEV-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;arcSize=37;" value="第一大关&lt;div&gt;最终BOSS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="130" x="910" y="705" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
