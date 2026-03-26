@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
   <diagram name="第 1 页" id="iivvh0xVOSI-kg2ecN6f">
-    <mxGraphModel>
+    <mxGraphModel dx="1205" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="470" width="620" x="290" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="NPC" vertex="1">
+          <mxGeometry height="80" width="80" x="740" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="商品1" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="商品2" vertex="1">
+          <mxGeometry height="80" width="80" x="450" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="商品3" vertex="1">
+          <mxGeometry height="80" width="80" x="560" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="刷新&lt;div&gt;（消耗通用素材）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="800" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="怪物素材兑换通用素材" vertex="1">
+          <mxGeometry height="80" width="80" x="680" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="关卡选择" vertex="1">
+          <mxGeometry height="40" width="450" x="380" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E2tNg8JW9n0mqN1Nnpwt-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="角色进入位置" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
