@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.6">
+  <diagram name="第 1 页" id="_BpcIU9V-c_c7fhW19QQ">
+    <mxGraphModel dx="1205" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="360" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="旧天赋" vertex="1">
+          <mxGeometry height="80" width="80" x="350" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="新天赋" vertex="1">
+          <mxGeometry height="80" width="80" x="560" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
+          <mxGeometry height="35" width="90" x="455" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="旧天赋说明" vertex="1">
+          <mxGeometry height="110" width="93.75" x="343.13" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="新天赋说明" vertex="1">
+          <mxGeometry height="110" width="90" x="555" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="请选择一个天赋进行定向升级" vertex="1">
+          <mxGeometry height="30" width="180" x="405" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="210" x="320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="选择旧天赋" vertex="1">
+          <mxGeometry height="80" width="80" x="385" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="请选择一个天赋进行定向升级" vertex="1">
+          <mxGeometry height="30" width="180" x="325.01" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;注入知识" vertex="1">
+          <mxGeometry height="30" width="70" x="460" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="645" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dVf5CY7DHCYt7wz4ltW8-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="X" vertex="1">
+          <mxGeometry height="20" width="20" x="500" y="445" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
