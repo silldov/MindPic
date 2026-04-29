@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="29.6.6">
+  <diagram name="第 1 页" id="XAD_UaX38vfFRNdaDQGf">
+    <mxGraphModel dx="779" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-9" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="65" width="270" x="170" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="压电泵" vertex="1">
+          <mxGeometry height="50" width="50" x="180" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-10" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="a5_rGEDGSM3AsCgACkzp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MCGG" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-17" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="S.S." vertex="1">
+          <mxGeometry height="30" width="50" x="360" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-21" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="细胞腔室" vertex="1">
+          <mxGeometry height="40" width="70" x="350" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-7" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="药物" vertex="1">
+          <mxGeometry height="40" width="40" x="110" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-8" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PBS" vertex="1">
+          <mxGeometry height="40" width="40" x="185" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-15" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="压电泵" vertex="1">
+          <mxGeometry height="50" width="50" x="270" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-16" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="环境培养液" vertex="1">
+          <mxGeometry height="40" width="40" x="200" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-14" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="培养基" vertex="1">
+          <mxGeometry height="40" width="40" x="330" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="产出废液" vertex="1">
+          <mxGeometry height="40" width="70" x="480" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-23" edge="1" parent="1" source="a5_rGEDGSM3AsCgACkzp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a5_rGEDGSM3AsCgACkzp-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="接种细胞" vertex="1">
+          <mxGeometry height="40" width="30" x="400" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="a5_rGEDGSM3AsCgACkzp-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="药物浓度梯度生产区" vertex="1">
+          <mxGeometry height="30" width="130" x="310" y="102.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
